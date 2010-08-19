@@ -32,3 +32,8 @@ Of course, this project was inspired by the (initial?) implementation inside [Tw
 For details, take a look into the samples inside the [Samples](http://github.com/tobiastom/PullToRefresh/blob/master/Samples/) directory. Once uses raw sourcecode to define the view, one uses only Interface Builder to archive the same goal.
 
 If you would like to implement your very own behaviour, you can easily subclass SuccontPullToRefreshView.
+
+## Demo
+
+<video src="http://cl.ly/238n/content" controls="controls" width="50%">
+</video>
